@@ -1,0 +1,9 @@
+{
+  "name": "js_ts_monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Pratap Dessai <pratapdd@yahoo.co.in>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["packages/*"]
+}
